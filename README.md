@@ -60,3 +60,17 @@ By comparing average ratings and app counts, categories with **high ratings but 
 From a strategic perspective:
 - Focus on categories with **high user satisfaction and low competition** for a better chance at visibility and success.
 - Since Rating and Installs have a weak correlation, prioritizing **quality and user experience** is more critical than aiming for high download numbers.
+
+
+## 📌 Notes on Category Naming
+
+During the analysis, you may notice that categories like **"Music"** and **"Music & Audio"** appear separately, even though their names seem similar.
+
+This is **not an error**, but a direct result of how Google Play categorizes apps:
+
+- **"Music"** is part of the **Game** categories (e.g., *Magic Tiles*, *Beat Blade*) and typically includes rhythm or music-based games.
+- **"Music & Audio"** is part of the **App** categories (e.g., *Spotify*, *Shazam*) and includes music streaming, audio editing, and playback tools.
+
+This classification comes directly from [Google Play's official category definitions](https://support.google.com/googleplay/android-developer/answer/9859673?hl=en#zippy=%2Cuygulamalar%2Coyunlar) and explains why these two categories differ significantly in:
+
+
